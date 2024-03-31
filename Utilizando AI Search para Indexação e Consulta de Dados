@@ -1,35 +1,35 @@
-# Azure Cognitive Search: Utilizando AI Search para Indexação e Consulta de Dados
+Azure Cognitive Search: Utilizando AI Search para Indexação e Consulta de Dados
 
 Este repositório contém instruções passo a passo para configurar e utilizar o Azure Cognitive Search, uma poderosa ferramenta de busca na nuvem que utiliza inteligência artificial para indexação e consulta de dados.
 
-## Configuração
+Configuração
 
-1. **Criar um recurso do Azure Cognitive Search:** Acesse o portal do Azure e crie um novo recurso do Azure Cognitive Search.
+1. Criar um recurso do Azure Cognitive Search: Acesse o portal do Azure e crie um novo recurso do Azure Cognitive Search.
 
-2. **Criar um índice de pesquisa:** Defina os campos que serão indexados e configurados para pesquisa. Especifique as configurações de análise de texto e de relevância dos resultados.
+2. Criar um índice de pesquisa: Defina os campos que serão indexados e configurados para pesquisa. Especifique as configurações de análise de texto e de relevância dos resultados.
 
-3. **Carregar os dados:** Carregue os dados que deseja indexar e pesquisar para o Azure Cognitive Search. Isso pode ser feito por meio de um pipeline de ingestão de dados ou diretamente no portal do Azure.
+3. Carregar os dados: Carregue os dados que deseja indexar e pesquisar para o Azure Cognitive Search. Isso pode ser feito por meio de um pipeline de ingestão de dados ou diretamente no portal do Azure.
 
-4. **Configurar a busca:** Configure os parâmetros de busca, como sinônimos, filtros, sugestões de consulta e ordenação dos resultados.
+4. Configurar a busca: Configure os parâmetros de busca, como sinônimos, filtros, sugestões de consulta e ordenação dos resultados.
 
-5. **Testar e otimizar:** Teste a pesquisa com consultas de exemplo e otimize os resultados ajustando as configurações de relevância e refinamento da busca.
+5. Testar e otimizar: Teste a pesquisa com consultas de exemplo e otimize os resultados ajustando as configurações de relevância e refinamento da busca.
 
-## Insights e Possibilidades
+Insights e Possibilidades
 
-- **Melhor Descoberta de Informações:** O Azure Cognitive Search permite aos usuários encontrar rapidamente informações relevantes em grandes conjuntos de dados, melhorando a eficiência e a produtividade.
+- Melhor Descoberta de Informações: O Azure Cognitive Search permite aos usuários encontrar rapidamente informações relevantes em grandes conjuntos de dados, melhorando a eficiência e a produtividade.
   
-- **Personalização da Experiência do Usuário:** Com recursos avançados de IA, é possível personalizar a relevância dos resultados da pesquisa com base no contexto do usuário e em seu comportamento de navegação.
+- Personalização da Experiência do Usuário: Com recursos avançados de IA, é possível personalizar a relevância dos resultados da pesquisa com base no contexto do usuário e em seu comportamento de navegação.
 
-- **Integração com Ferramentas Existentes:** O Azure Cognitive Search pode ser integrado facilmente a várias ferramentas e plataformas, como aplicativos da web, aplicativos móveis e sistemas de gerenciamento de conteúdo.
+- Integração com Ferramentas Existentes: O Azure Cognitive Search pode ser integrado facilmente a várias ferramentas e plataformas, como aplicativos da web, aplicativos móveis e sistemas de gerenciamento de conteúdo.
 
-- **Aprendizados Adquiridos:** Durante o processo de configuração e utilização do Azure Cognitive Search, aprendemos a importância de compreender os requisitos de busca dos usuários, ajustar as configurações de relevância e realizar testes contínuos para otimizar os resultados da pesquisa.
+- Aprendizados Adquiridos: Durante o processo de configuração e utilização do Azure Cognitive Search, aprendemos a importância de compreender os requisitos de busca dos usuários, ajustar as configurações de relevância e realizar testes contínuos para otimizar os resultados da pesquisa.
 
-## Ferramentas Beneficiadas
+Ferramentas Beneficiadas
 
-- **Aplicativos da Web e Móveis:** Melhore a experiência do usuário em seus aplicativos da web e móveis, permitindo que eles encontrem facilmente as informações desejadas.
+- Aplicativos da Web e Móveis: Melhore a experiência do usuário em seus aplicativos da web e móveis, permitindo que eles encontrem facilmente as informações desejadas.
 
-- **Sistemas de Gerenciamento de Conteúdo:** Agilize a busca e recuperação de informações em sistemas de gerenciamento de conteúdo, como blogs, wikis e portais de conhecimento.
+- Sistemas de Gerenciamento de Conteúdo: Agilize a busca e recuperação de informações em sistemas de gerenciamento de conteúdo, como blogs, wikis e portais de conhecimento.
 
-- **Análise de Dados:** Utilize o Azure Cognitive Search para indexar e pesquisar dados de análise, permitindo a descoberta de insights valiosos em grandes conjuntos de dados.
+- *Análise de Dados: Utilize o Azure Cognitive Search para indexar e pesquisar dados de análise, permitindo a descoberta de insights valiosos em grandes conjuntos de dados.
 
 Com o Azure Cognitive Search, você pode oferecer uma experiência de busca avançada e personalizada para seus usuários, aumentando a satisfação do cliente e melhorando a eficiência operacional de seus aplicativos e sistemas.
